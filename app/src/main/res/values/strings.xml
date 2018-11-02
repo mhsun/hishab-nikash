@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HishabNikash</string>
+    <string name="vehicle_cost">Travel Cost</string>
+    <string name="others_cost">Daily Expenses</string>
+    <string name="savings_bill">Savings Plan</string>
+    <string name="saving_layout_heading">Savings Plan</string>
+    <string name="saving_layout_month">July, 2018</string>
+    <string name="saving_layout_month_input_hint">Please enter your target amount</string>
+    <string name="about_app">
+        This app is basically for those who wants to keep track of their daily cost. Someone who is
+        very bad at maintaining budget, this app is to give him a option to look on the fields where
+        he spends his money. It will allow to input the daily expenses for the current month and will
+        show you an overview in the saving plan section that how much your expense is and did you fail
+        to maintain your budget or not. Cheers !!!
+    </string>
+    <string name="logo_credit_title">
+        Logo and Design
+    </string>
+    <string name="logo_credit">
+        Redwan Rahat \n
+        Arifur Rahman
+    </string>
+    <string name="tv_pin_code_set">Enter a 4 digit pin code</string>
+    <string name="btn_pin_code_set">Set Pin</string>
+    <string name="btn_pin_code_check">Submit</string>
+    <string name="security_question_one">What was your childhood nickname?</string>
+    <string name="security_question_two">Who is your childhood sports hero?</string>
+    <string name="security_question_three">What was your favorite food as a child?</string>
+    <string name="btn_security_question_set">Set Security Question</string>
+    <string name="tv_forgot_pin">forgot pin ?</string>
+</resources>
